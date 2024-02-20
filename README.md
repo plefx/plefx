@@ -16,7 +16,7 @@
   <a href="https://github.com/plefx">
   <img height="165em" align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?icon_color=1E90FF&title_color=1E90FF&theme=transparent&text_color=ffffff&bg_color=00000000&hide_border=true&username=plefx&show_icons=true&theme=swift&include_all_commits=true&count_private=true&locale=pt-BR""/>
    
-  <img height="165em" align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fravondev&layout=compact&text_color=ffffff&title_color=1E90FF&bg_color=00000000&hide_border=true&langs_count=7&theme=transparent&locale=pt-BR"/>
+  <img height="165em" align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=plefx&layout=compact&text_color=ffffff&title_color=1E90FF&bg_color=00000000&hide_border=true&langs_count=7&theme=transparent&locale=pt-BR"/>
   
 ***************
 
