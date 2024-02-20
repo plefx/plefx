@@ -1,16 +1,46 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=160&section=header&text=Guilherme%20Felipe🚀&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
-<!--
-**plefx/plefx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Guilherme+Felipe;estudo+Frontend+na+UDEMY;fique+a+vontade+:%29)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img align="right" width=250px alt="notebook picture" src="https://cdn.discordapp.com/attachments/981591444412321842/1209595223295131748/4635743-removebg-preview.png?ex=65e77e56&is=65d50956&hm=b1fa0137906cdc665f5a0297bb4364a347d996b5be6b08673a8e8c4925d91696&">
+ - Desenvolvedor web Developer<br>
+- Me aperfeiçoando cada dia um pouco mais com a programação <br>
+- Atualmente me aperfeiçoando em Frontend<br>
+- Adoro programação, animes e design <br>
+</div>
+
+***************
+<div align="center">
+  <a href="https://github.com/plefx">
+  <img height="165em" align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?icon_color=1E90FF&title_color=1E90FF&theme=transparent&text_color=ffffff&bg_color=00000000&hide_border=true&username=plefx&show_icons=true&theme=swift&include_all_commits=true&count_private=true&locale=pt-BR""/>
+   
+  <img height="165em" align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fravondev&layout=compact&text_color=ffffff&title_color=1E90FF&bg_color=00000000&hide_border=true&langs_count=7&theme=transparent&locale=pt-BR"/>
+  
+***************
+
+ <div> 
+<div align="center">
+ 
+<h2 align="center">Minhas Linguagens e Ferramentas</h2>
+ 
+### Front-end:
+ 
+ 
+ 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+
+<h2 align="center">Entre em contato:</h2>
+
+
+  <a href = "guilhermejuaff@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-felipe-9583022a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.instagram.com/plefxis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f7f7f7&height=120&section=footer"/>
