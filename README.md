@@ -5,7 +5,7 @@
 
 <div>
   <img align="right" width=250px alt="notebook picture" src="https://cdn.discordapp.com/attachments/981591444412321842/1209616852355907604/4401280-removebg-preview.png?ex=65e7927b&is=65d51d7b&hm=2ed35dd29889cca00949fb9ebfdf754c0b30785b3dd39d3e8e1a317856781040&">
- - Desenvolvedor web Developer<br>
+ - Estudante Frontend<br>
 - Me aperfeiçoando cada dia um pouco mais com a programação <br>
 - Atualmente me aperfeiçoando em Frontend<br>
 - Adoro programação,games e design <br>
