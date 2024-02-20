@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=160&section=header&text=Guilherme%20Felipe🚀&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Guilherme+Felipe;estudo+Frontend+na+UDEMY;fique+a+vontade+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Guilherme+Felipe;estudo+Frontend+na+UDEMY;fique+a+vontade!+:%29)](https://git.io/typing-svg)
 
 <div>
   <img align="right" width=250px alt="notebook picture" src="https://cdn.discordapp.com/attachments/981591444412321842/1209595223295131748/4635743-removebg-preview.png?ex=65e77e56&is=65d50956&hm=b1fa0137906cdc665f5a0297bb4364a347d996b5be6b08673a8e8c4925d91696&">
