@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=160&section=header&text=Guilherme%20Felipe🚀&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA9A&height=160&section=header&text=Guilherme%20Felipe🚀&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Guilherme+Felipe;estudo+Frontend+na+UDEMY;fique+a+vontade!+:%29)](https://git.io/typing-svg)
 
 <div>
-  <img align="right" width=250px alt="notebook picture" src="https://cdn.discordapp.com/attachments/981591444412321842/1209595223295131748/4635743-removebg-preview.png?ex=65e77e56&is=65d50956&hm=b1fa0137906cdc665f5a0297bb4364a347d996b5be6b08673a8e8c4925d91696&">
+  <img align="right" width=250px alt="notebook picture" src="https://cdn.discordapp.com/attachments/981591444412321842/1209616852355907604/4401280-removebg-preview.png?ex=65e7927b&is=65d51d7b&hm=2ed35dd29889cca00949fb9ebfdf754c0b30785b3dd39d3e8e1a317856781040&">
  - Desenvolvedor web Developer<br>
 - Me aperfeiçoando cada dia um pouco mais com a programação <br>
 - Atualmente me aperfeiçoando em Frontend<br>
@@ -14,9 +14,9 @@
 ***************
 <div align="center">
   <a href="https://github.com/plefx">
-  <img height="165em" align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?icon_color=1E90FF&title_color=1E90FF&theme=transparent&text_color=ffffff&bg_color=00000000&hide_border=true&username=plefx&show_icons=true&theme=swift&include_all_commits=true&count_private=true&locale=pt-BR""/>
+  <img height="165em" align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?icon_color=00FA9A&title_color=00FA9A&theme=transparent&text_color=ffffff&bg_color=00000000&hide_border=true&username=plefx&show_icons=true&theme=swift&include_all_commits=true&count_private=true&locale=pt-BR""/>
 
-  <img height="165em" align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=plefx&layout=compact&text_color=ffffff&title_color=1E90FF&bg_color=00000000&hide_border=true&langs_count=7&theme=transparent&locale=pt-BR"/>
+  <img height="165em" align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=plefx&layout=compact&text_color=ffffff&title_color=00FA9A&bg_color=00000000&hide_border=true&langs_count=7&theme=transparent&locale=pt-BR"/>
    
   
 ***************
