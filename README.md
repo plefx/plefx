@@ -8,7 +8,7 @@
  - Desenvolvedor web Developer<br>
 - Me aperfeiçoando cada dia um pouco mais com a programação <br>
 - Atualmente me aperfeiçoando em Frontend<br>
-- Adoro programação, animes e design <br>
+- Adoro programação,games e design <br>
 </div>
 
 ***************
